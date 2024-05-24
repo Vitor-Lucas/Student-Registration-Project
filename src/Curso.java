@@ -11,7 +11,6 @@ public class Curso {
         this.codigo = codigo;
     }
     
-    
     public String setNomeCurso(String nomeCurso){
         return this.nomeCurso = nomeCurso;
     }
